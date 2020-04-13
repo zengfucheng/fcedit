@@ -38,7 +38,6 @@ export default {
         // this.$store.dispatch('Logins',{token:'cnm'});       // 异步修改状态
         this.$store.state.user.token = 'cam';       // 直接修改状态
         this.mesgPush();
-
     },
     methods: {
         mesgPush() {
