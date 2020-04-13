@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-edit
 
 ## Project setup
@@ -37,3 +38,7 @@ yarn run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# fcedit
+edit
+>>>>>>> 8328a55b07f1a6c7c4a03ed79788cb7146e08cda
